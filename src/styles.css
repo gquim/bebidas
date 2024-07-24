@@ -1,15 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
 body
 {
-    background-color: brown;
-    color: whitesmoke;
+    background-color: midnightblue;
+    color: wheat;
+    border: 0px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
 }   
 section{
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 50px;
-    text-align: center;
+    text-align: justify;
 }
 img{
     width: 250px;
